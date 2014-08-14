@@ -7,4 +7,5 @@
     "tiff":"4.0.3",
     "webp":"0.2.1",
     "websockets":"v1.23-chrome32-firefox24"
+    "protocolBuf":"2.5.0"
 }
